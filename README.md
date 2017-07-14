@@ -4,9 +4,11 @@
 
 # Node Shell Workshop
 
-A tutorial that takes you through the basics of doing shell scripting with node.js.
+A tutorial that takes you through the basics of doing shell scripting with node.js. It culminates in a project using the lessons learned to build a small command-line tool.
 
-See [LESSON1.md](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/LESSON1.md) for the first lesson, [LESSON2.md](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/LESSON2.md) for the second.
+See [LESSON1.md](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/LESSON1.md) for the first lesson, [LESSON2.md](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/LESSON2.md) for the second, and [PROJECT.md](https://github.com/bradreeder/Node-Shell-Workshop/blob/master/PROJECT.md) for the final project.
+
+**_(If you're completing the course at Founders & Coders, you will cover the project during research afternoon.)_**
 
 ## Resources
 
